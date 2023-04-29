@@ -1,12 +1,12 @@
 # Hybrid Movie Recommender
-The Hybrid Movie Recommender is a system that recommends movies using a combination of collaborative and content-based filtering techniques. The system is designed to address the cold start problem(new users) by using a popularity based approach. The dataset used for the system is obtained from Kaggle.
+**The Hybrid Movie Recommender is a system that recommends movies using a combination of collaborative and content-based filtering techniques. The system is designed to address the cold start problem(new users) by using a popularity based approach. The dataset used for the system is obtained from Kaggle.**
 --------------
 # Features
-Collaborative filtering technique for recommending movies based on user preferences
+**Collaborative filtering technique for recommending movies based on user preferences
 Content-based filtering technique for recommending movies based on the characteristics of the movies
 Popularity based approach to handle the cold start problem
 Personalized recommendations based on user history
-Ability to provide new user recommendations based on popular movies
+Ability to provide new user recommendations based on popular movies**
 -------------
 #  Requirements
 + Python 3.7 or above
