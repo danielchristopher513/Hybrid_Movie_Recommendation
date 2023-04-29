@@ -16,12 +16,11 @@ Ability to provide new user recommendations based on popular movies
 + Surprise
 + Scikit-learn library
 + seaborn
-
-Numpy library
++ Numpy library
 -----------------------
 #  Dataset
 The dataset used in the system is obtained from Kaggle and contains movie ratings and movie metadata. The dataset is preprocessed and cleaned before being used in the system.
-+ link to the Dataset  (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
++ link to the Dataset  https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 ------------------
 # Installation and Usage
 Download or clone the repository to your local machine
